@@ -1,0 +1,9 @@
+porttcp.c:69:1:xMBTCPPortInit	32	static
+porttcp.c:122:1:prvvMBPortReleaseClient	24	static
+porttcp.c:154:1:vMBTCPPortClose	16	static
+porttcp.c:170:1:vMBTCPPortDisable	16	static
+porttcp.c:180:1:prvxMBTCPPortAccept	32	static
+porttcp.c:231:1:prvvMBTCPPortError	24	static
+porttcp.c:245:1:prvxMBTCPPortReceive	40	static,ignoring_inline_asm
+porttcp.c:338:1:xMBTCPPortGetRequest	24	static
+porttcp.c:359:1:xMBTCPPortSendResponse	24	static
